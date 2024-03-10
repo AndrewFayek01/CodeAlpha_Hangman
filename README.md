@@ -1,2 +1,2 @@
-# CodeAlpha_Project_Name
+# CodeAlpha_Hangman
 Code Alpha Repository
